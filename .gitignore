@@ -1,0 +1,17 @@
+# Gradle / Android build output
+.gradle/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated APKs and test results
+*.apk
+*.aab
+*.ap_
+*.dex
